@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/rize/.local/share/virtualenvs/nitya-py--WS6fyac/bin/python",
+    "python.formatting.provider": "yapf"
+}
